@@ -150,7 +150,9 @@ adb shell pm disable-user com.sec.android.easyMover.Agent
 adb shell pm disable-user com.sec.android.easyonehand
 adb shell pm disable-user com.sec.android.emergencylauncher
 adb shell pm disable-user com.sec.android.iaft
-adb shell pm disable-user com.sec.android.mimage.photoretouching
+
+#adb shell pm disable-user com.sec.android.mimage.photoretouching
+
 adb shell pm disable-user com.sec.android.provider.badge
 adb shell pm disable-user com.sec.android.provider.emergencymode
 adb shell pm disable-user com.sec.android.sdhms
